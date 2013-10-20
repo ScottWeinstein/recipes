@@ -12,33 +12,30 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://scottweinstein.github.io/Recipes/"
 
 			# Here are some old site urls that you would like to redirect from
-			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
-			]
+			oldUrls: []
 
 			# The default title of our website
-			title: "Acme"
-			company: "Acme Inc."
+			title: "Scott Weinstein's favorite recipes"
+			company: "Scott Weinstein" 
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				Collection of tested recipes
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				food recipes 
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Scott Weinstein"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "scottwww@squidnet.com"
 
 			# Styles
 			styles: [
@@ -107,9 +104,9 @@ docpadConfig = {
 
 	plugins:
 		sass:
-			compass: true
-			sassPath: "/var/lib/gems/1.9.1/gems/sass-3.2.10/bin/sass"
-			scssPath: "/var/lib/gems/1.9.1/gems/sass-3.2.10/bin/scss"
+			compass: "C:\\Ruby193\\bin\\compass.bat"
+			sassPath: "C:\\Ruby193\\bin\\sass.bat"
+			scssPath: "C:\\Ruby193\\bin\\scss.bat"
 
 	# =================================
 	# DocPad Events
@@ -149,7 +146,7 @@ docpadConfig = {
 			docpad = @docpad
 			rootPath = docpad.getConfig().rootPath
 
-			command = ["grunt", 'uglify']
+			command = ["grunt.cmd", 'uglify']
 			safeps.spawn(command, {safe:false, output:true}, next)
 
 			# Chain

@@ -14,3 +14,4 @@ navtitle: Blog
 		<a href="<%= document.url %>"><%= document.title %></a></li>
 	<% end %>
 </nav>
+ 

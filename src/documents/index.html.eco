@@ -1,0 +1,29 @@
+---
+layout: 'default'
+title: 'Home'
+---
+
+<!-- Main hero unit for a primary marketing message or call to action -->
+<header class="tall">
+	<div class="row">
+		<div class="twelve columns">
+			<h2>Favorite food recepies</h2>
+		</div>
+	</div>
+</header>
+
+
+<!-- Example row of columns -->
+<div class="row" >
+	<section class="small-12 large-6 columns">
+<nav class="linklist">
+	<% for document in @getCollection('posts').toJSON(): %>
+		<li><span><%= document.date.toDateString() %></span>
+		&raquo;
+		<a href="<%= document.url %>"><%= document.title %></a></li>
+	<% end %>
+</nav>
+	</section>
+	<section class="small-12 large-6 columns">
+	</section>
+</div>
