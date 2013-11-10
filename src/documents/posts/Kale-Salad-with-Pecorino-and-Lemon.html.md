@@ -14,8 +14,7 @@ tags: [salad]
 * Kosher salt and fresh black pepper, to taste
 
 ##Steps
-* Roll several kale leaves lengthwise and using the point of a chef's knife
-* cut away the thick center stem & discard
+* Roll several kale leaves lengthwise, cut away the thick center stem & discard
 * Roll the remaining stack of de-veined leaves into a tight cigar shape and slice into thin ribbons
 * Toss the shaved kale with the cheese. 
 * Whisk the lemon juice and olive oil and pour over the salad 
