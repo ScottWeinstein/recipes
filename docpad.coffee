@@ -19,7 +19,7 @@ docpadConfig = {
 
 			# The default title of our website
 			title: "Scott Weinstein's favorite recipes"
-			company: "Scott Weinstein" 
+			company: "Scott Weinstein"
 
 			# The website description (for SEO)
 			description: """
@@ -28,7 +28,7 @@ docpadConfig = {
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				food recipes 
+				food recipes
 				"""
 
 			# The website author's name
@@ -135,22 +135,6 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
-
-		# Write After
-		# Used to minify our assets with grunt
-		writeAfter: (opts,next) ->
-
-			# Prepare
-			safeps = require('safeps')
-			pathUtil = require('path')
-			docpad = @docpad
-			rootPath = docpad.getConfig().rootPath
-
-			command = ["grunt.cmd", 'uglify']
-			safeps.spawn(command, {safe:false, output:true}, next)
-
-			# Chain
-			@
 
 }
 

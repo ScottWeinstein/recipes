@@ -26,7 +26,7 @@
     "npm": "1.2"
   },
   "dependencies": {
-    "docpad": "~6.54.5",
+    "docpad": "~6.54.6",
     "docpad-plugin-cleanurls": "~2.5.1",
     "docpad-plugin-coffeescript": "~2.2.3",
     "docpad-plugin-eco": "~2.0.2",
@@ -37,9 +37,6 @@
     "docpad-plugin-sass": "~2.6.1",
     "foundation": "~4.2.1-1",
     "docpad-plugin-ghpages": "~2.4.0",
-    "safeps": "~2.2.6",
-    "grunt": "~0.4.1",
-    "grunt-contrib-uglify": "~0.2.2",
     "docpad-plugin-highlightjs": "~2.1.8"
   },
   "devDependencies": {
@@ -47,6 +44,7 @@
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
-    "start": "node_modules/docpad/bin/docpad-server"
+    "start": "node_modules/docpad/bin/docpad-server",
+    "postinstall": "gem install bourbon;bourbon install"
   }
 }
