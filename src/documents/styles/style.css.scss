@@ -5,7 +5,7 @@
 @import "variables";
 @import "mixins.scss";
 
-//included in mixins.scss. Verbatim from Compass. 
+//included in mixins.scss. Verbatim from Compass.
 //See: http://compass-style.org/reference/compass/layout/sticky_footer/
 @include sticky-footer(6em, "#layout", "#layout_footer", "#footer");
 
@@ -13,7 +13,7 @@
 // LAYOUT
 #layout{
 	//makes sure body-height: 100% doesn't show vertical scrollbar when not needed
-	overflow: auto; 
+	overflow: auto;
 }
 
 ////////////
@@ -24,10 +24,10 @@ $backColDarkGrad: darken($backCol, 15%);
 $colDarken: darken($backCol, 20%);
 
 .container.top-bar {
-	
+
 	.top-bar-section{
 		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-		li a:not(.button):hover, li.active a:not(.button){ 
+		li a:not(.button):hover, li.active a:not(.button){
 			background: #222;
 		}
 	}
@@ -39,14 +39,14 @@ h1,h2,h3,h4,h5,h6{
 }
 
 header{
-	
+
 	padding: 1.5em 0;
 	background: $backCol;
 
 	&.tall{
 		padding: 4.5em 0;
    		@include box-shadow(inset 0 -50px 100px $backColDarkGrad);
-   		
+
    		@media #{$small} {
 			padding: 7.5em 0;
 			@include transition(all 0.2s ease-in-out);
@@ -119,7 +119,11 @@ article{
 }
 
 
-
+@media print {
+	#disqus_thread, #footer, .top-bar, img {
+		display: none;
+	}
+}
 
 
 

@@ -18,9 +18,7 @@ title: 'Home'
 	<section class="small-12 large-6 columns">
 <nav class="linklist">
 	<% for document in @getCollection('posts').toJSON(): %>
-		<li><span><%= document.date.toDateString() %></span>
-		&raquo;
-		<a href="<%= document.url %>"><%= document.title %></a></li>
+		<li>		<a href="<%= document.url %>"><%= document.title %></a></li>
 	<% end %>
 </nav>
 	</section>
