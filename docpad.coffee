@@ -57,6 +57,8 @@ docpadConfig = {
 		# Get the prepared site/document title
 		# Often we would like to specify particular formatting to our page's title
 		# we can apply that formatting here
+		getUrl: (document) ->
+            return @site.url + (document.url or document.get?('url'))
 		getPreparedTitle: ->
 			# if we have a document title, then we should use that and suffix the site's title onto it
 			if @document.title

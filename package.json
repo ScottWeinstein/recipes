@@ -1,33 +1,20 @@
 {
-  "name": "zurb-foundation.docpad",
+  "name": "scotts-food-recipies",
   "version": "0.1.0",
-  "description": "Zurb Foundation skeleton for DocPad.",
-  "homepage": "https://github.com/Clearskyabove/zurb-foundation.docpad",
-  "keywords": [
-    "docpad-skeleton",
-    "docpad",
-    "website",
-    "bootstrap",
-    "zurb foundation"
-  ],
-  "author": "Clearskyabove <us@clearskyabove.com> (http://clearskyabove.com)",
-  "maintainers": [
-    "Geert-Jan Brits <geertjan@clearksyabove.com> (https://github.com/gbrits)"
-  ],
-  "bugs": {
-    "url": "https://github.com/Clearskyabove/zurb-foundation.docpad/issues"
-  },
+  "description": "",
+  "homepage": "http://scottweinstein.github.io/recipes/",
+  "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Clearskyabove/zurb-foundation.docpad.git"
+    "url": "https://github.com/ScottWeinstein/recipes"
   },
   "engines": {
     "node": "0.10",
     "npm": "1.2"
   },
   "dependencies": {
-    "docpad": "~6.54.6",
-    "docpad-plugin-cleanurls": "~2.5.1",
+    "docpad": "~6.54.10",
+    "docpad-plugin-cleanurls": "~2.5.2",
     "docpad-plugin-coffeescript": "~2.2.3",
     "docpad-plugin-eco": "~2.0.2",
     "docpad-plugin-marked": "~2.1.2",
@@ -45,6 +32,6 @@
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
     "start": "node_modules/docpad/bin/docpad-server",
-    "postinstall": "gem install bourbon;bourbon install"
+    "postinstall": "gem install bourbon && bourbon install"
   }
 }
