@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Scott Weinstein's favorite recipes</title>
+	<link href="http://food.squidnet.com/atom.xml" rel="self"/>
+	<link href="http://food.squidnet.com"/>
+	<updated>2013-12-01T22:34:14.708Z</updated>
+	<id>http://food.squidnet.com</id>
+	<author>
+		<name>Scott Weinstein</name>
+		<email>scottwww@squidnet.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Ma Po Tofu</title>
+			<link href="http://food.squidnet.com//posts/Mapo-Tofu"/>
+			<updated>2013-12-01T19:30:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/Mapo-Tofu</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Ma Po Tofu | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Ma Po Tofu&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 block bean curd&lt;/li&gt;
+&lt;li&gt;2 leaks&lt;/li&gt;
+&lt;li&gt;0.5 ground beef/pork&lt;/li&gt;
+&lt;li&gt;2.5 Tbsp broad bean paste&lt;/li&gt;
+&lt;li&gt;1 Tbsp black beans&lt;/li&gt;
+&lt;li&gt;1 C chicken stock&lt;/li&gt;
+&lt;li&gt;4 T cornstarch&lt;/li&gt;
+&lt;li&gt;0.5 tsp sichuan pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;h3 id=&quot;prep-tofu&quot;&gt;Prep Tofu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cube tofu - 1&amp;quot; sides&lt;/li&gt;
+&lt;li&gt;Heat in water - w/ some vinegar&lt;h3 id=&quot;prep&quot;&gt;Prep&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Cut leaks into ear slices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;cook&quot;&gt;Cook&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;stir fry pork/beef till dry&lt;/li&gt;
+&lt;li&gt;Add chili bean paste - 30 seconds&lt;/li&gt;
+&lt;li&gt;Add black beans and chili - 20 seconds&lt;/li&gt;
+&lt;li&gt;Add stock &amp;amp; tofu &amp;amp; soy - get hot&lt;/li&gt;
+&lt;li&gt;Add leaks - 2 min&lt;/li&gt;
+&lt;li&gt;Add cornstarch&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Kale Salad with Pecorino and Lemon</title>
+			<link href="http://food.squidnet.com//posts/Kale-Salad-with-Pecorino-and-Lemon"/>
+			<updated>2013-10-20T18:30:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/Kale-Salad-with-Pecorino-and-Lemon</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Kale Salad with Pecorino and Lemon | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Kale Salad with Pecorino and Lemon&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 large bunch kale, washed and trimmed of stems&lt;/li&gt;
+&lt;li&gt;4 ounces Pecorino Romano, grated&lt;/li&gt;
+&lt;li&gt;2 lemons, juiced&lt;/li&gt;
+&lt;li&gt;1/2 cup olive oil&lt;/li&gt;
+&lt;li&gt;Kosher salt and fresh black pepper, to taste&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Roll several kale leaves lengthwise, cut away the thick center stem &amp;amp; discard&lt;/li&gt;
+&lt;li&gt;Roll the remaining stack of de-veined leaves into a tight cigar shape and slice into thin ribbons&lt;/li&gt;
+&lt;li&gt;Toss the shaved kale with the cheese. &lt;/li&gt;
+&lt;li&gt;Whisk the lemon juice and olive oil and pour over the salad &lt;/li&gt;
+&lt;li&gt;Taste and season with salt and pepper&lt;/li&gt;
+&lt;li&gt;Let the salad sit at room temperature for &lt;strong&gt;an hour&lt;/strong&gt; before serving&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Turkey Chili</title>
+			<link href="http://food.squidnet.com//posts/2013-02-17-turkey-chili"/>
+			<updated>2013-02-17T14:42:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2013-02-17-turkey-chili</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Turkey Chili | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Turkey Chili&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 Tbsp oil&lt;/li&gt;
+&lt;li&gt;2 C diced onions&lt;/li&gt;
+&lt;li&gt;1.5 Tbsp chili powder&lt;/li&gt;
+&lt;li&gt;1 tsp minced garlic&lt;/li&gt;
+&lt;li&gt;1.5 tsp ground cumin&lt;/li&gt;
+&lt;li&gt;1 tsp oregano&lt;/li&gt;
+&lt;li&gt;3 cans of white beans&lt;/li&gt;
+&lt;li&gt;4 C chicken broth&lt;/li&gt;
+&lt;li&gt;1.5 Lbs ground turkey&lt;/li&gt;
+&lt;li&gt;.5 C diced plum tomatoes&lt;/li&gt;
+&lt;li&gt;0.3 C chopped cilanto&lt;/li&gt;
+&lt;li&gt;2 Tbsp fresh lime juice&lt;/li&gt;
+&lt;li&gt;0.5 tsp salt&lt;/li&gt;
+&lt;li&gt;0.5 tsp ground black pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cook turkey, set aside&lt;/li&gt;
+&lt;li&gt;Saute onion till soft and golden&lt;/li&gt;
+&lt;li&gt;Add chili, garlic, cumin for 2 min&lt;/li&gt;
+&lt;li&gt;Add oregano and beans for 20 seconds&lt;/li&gt;
+&lt;li&gt;Add broth for 20 min&lt;/li&gt;
+&lt;li&gt;2 C of above mix and blend till smooth, return&lt;/li&gt;
+&lt;li&gt;Add cooked turkey&lt;/li&gt;
+&lt;li&gt;Add tomato, cilantro, lime, salt, pepper + 5 min&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Hariyali Masoor and Greens Dal</title>
+			<link href="http://food.squidnet.com//posts/2012-12-31-hariyali-masoor-and-greens-dal"/>
+			<updated>2013-01-01T02:06:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-31-hariyali-masoor-and-greens-dal</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Hariyali Masoor and Greens Dal | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Hariyali Masoor and Greens Dal&lt;/h1&gt;
+			&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1.5 cups masoor dal&lt;/li&gt;
+&lt;li&gt;2 cups cooked drained chopped  spinach (fresh is nice, 1 package frozen is fine)&lt;/li&gt;
+&lt;li&gt;2 T ghee (or 1.5 T veg oil + 1/2 T ghee)&lt;/li&gt;
+&lt;li&gt;1 chopped onion (small or medium)&lt;/li&gt;
+&lt;li&gt;1 tsp cumin seeds&lt;/li&gt;
+&lt;li&gt;1 chopped tomato&lt;/li&gt;
+&lt;li&gt;2 tsp amchur&lt;/li&gt;
+&lt;li&gt;1 tsp turmeric powder&lt;/li&gt;
+&lt;li&gt;1 tsp chili powder&lt;/li&gt;
+&lt;li&gt;1.5 tsp Salt&lt;/li&gt;
+&lt;li&gt;2 Tbsp dried methi leaves &lt;/li&gt;
+&lt;li&gt;Handful chopped cilantro&lt;/li&gt;
+&lt;li&gt;6 cloves garlic&lt;/li&gt;
+&lt;li&gt;6 small green chilies (or 1 long green )&lt;/li&gt;
+&lt;li&gt;1 tsp ginger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;steps&quot;&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Wash dal&lt;/li&gt;
+&lt;li&gt;Cook the dal with 2 cups of water till yellow/al-dente&lt;/li&gt;
+&lt;li&gt;Heat the Ghee/oil in pan, add the onion, cumin till brown&lt;/li&gt;
+&lt;li&gt;Add tomatoes - stir 1-2 min&lt;/li&gt;
+&lt;li&gt;Grind garlic, ginger, chili w/ mortar - add to pan, stir 1-2 min&lt;/li&gt;
+&lt;li&gt;Add spices - stir 1-2 m&lt;/li&gt;
+&lt;li&gt;Add dal, spinach, methi, cilantro&lt;/li&gt;
+&lt;li&gt;Add 1-2 cups of water&lt;/li&gt;
+&lt;li&gt;Cook for a few min&lt;/li&gt;
+&lt;/ol&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Basic Tomato Sauce</title>
+			<link href="http://food.squidnet.com//posts/2012-12-31-basic-tomato-sauce"/>
+			<updated>2013-01-01T02:03:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-31-basic-tomato-sauce</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Basic Tomato Sauce | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Basic Tomato Sauce&lt;/h1&gt;
+			&lt;p&gt;This sauce holds 1 week in the refrigerator or up to 6 months in the freezer. &lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/4 cup extra-virgin olive oil &lt;/li&gt;
+&lt;li&gt;1 Spanish onion, chopped into 1/4-inch dice &lt;/li&gt;
+&lt;li&gt;4 cloves garlic, peeled and thinly sliced &lt;/li&gt;
+&lt;li&gt;3 Tbsp fresh thyme leaves, chopped &lt;/li&gt;
+&lt;li&gt;1/2 medium carrot, finely shredded &lt;/li&gt;
+&lt;li&gt;2 (28-ounce) cans peeled whole tomatoes &lt;/li&gt;
+&lt;li&gt;Salt &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;steps&quot;&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a 3-quart saucepan, heat the olive oil over medium heat&lt;/li&gt;
+&lt;li&gt;Add the onion and garlic and cook until soft and light golden brown, about 10 to 20 minutes&lt;/li&gt;
+&lt;li&gt;Add the thyme and carrot and cook 5 minutes more, until the carrot is quite soft&lt;/li&gt;
+&lt;li&gt;Add the tomatoes and juice and bring to a boil, stirring often&lt;/li&gt;
+&lt;li&gt;Lower the heat and simmer for 30 minutes until as thick as hot oatmeal &lt;/li&gt;
+&lt;li&gt;Season with salt and serve&lt;/li&gt;
+&lt;/ol&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Takeout-Style Sesame Noodles</title>
+			<link href="http://food.squidnet.com//posts/2012-12-31-takeout-style-sesame-noodles"/>
+			<updated>2013-01-01T01:59:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-31-takeout-style-sesame-noodles</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Takeout-Style Sesame Noodles | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Takeout-Style Sesame Noodles&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 lbs Chinese egg noodles (1/8,-inch-thick), frozen or (preferably) fresh, available in Asian markets&lt;/li&gt;
+&lt;li&gt;2 Tbsp sesame oil, plus a splash&lt;/li&gt;
+&lt;li&gt;3½ Tbsp soy sauce&lt;/li&gt;
+&lt;li&gt;2 Tbsp Chinese rice vinegar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Chinese sesame paste&lt;/li&gt;
+&lt;li&gt;1 Tbsp smooth peanut butter&lt;/li&gt;
+&lt;li&gt;1 Tbsp sugar&lt;/li&gt;
+&lt;li&gt;1 Tbsp finely grated ginger&lt;/li&gt;
+&lt;li&gt;2 tsp minced garlic&lt;/li&gt;
+&lt;li&gt;2 tsp chili-garlic paste, or to taste&lt;/li&gt;
+&lt;li&gt;Half a cucumber, peeled, seeded, and cut into 1/8,-by- 1/8,-by-2-inch sticks&lt;/li&gt;
+&lt;li&gt;¼ cup chopped roasted peanuts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Bring a large pot of water to a boil&lt;/li&gt;
+&lt;li&gt;Add noodles and cook until barely tender, about 5 minutes; they should retain a hint of chewiness&lt;/li&gt;
+&lt;li&gt;Drain, rinse with cold water, drain again and toss with a splash of sesame oil&lt;/li&gt;
+&lt;li&gt;In a medium bowl, whisk together the remaining 2 Tbsp sesame oil, the soy sauce, rice vinegar, sesame paste, peanut butter, sugar, ginger, garlic and chili-garlic paste&lt;/li&gt;
+&lt;li&gt;Pour the sauce over the noodles and toss. Transfer to a serving bowl, and garnish with cucumber and peanuts. Serves 4&lt;/li&gt;
+&lt;/ol&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Pasta con le Sarde</title>
+			<link href="http://food.squidnet.com//posts/2012-12-31-pasta-con-le-sarde"/>
+			<updated>2013-01-01T01:55:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-31-pasta-con-le-sarde</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Pasta con le Sarde | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Pasta con le Sarde&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2 lbs fennel bulbs, greens removed and reserved, bulb cut into sticks &lt;/li&gt;
+&lt;li&gt;3 lbs whole fresh sardines &lt;/li&gt;
+&lt;li&gt;1 cup extra-virgin olive oil &lt;/li&gt;
+&lt;li&gt;2 medium onions, minced &lt;/li&gt;
+&lt;li&gt;1 (28-ounce) can whole tomatoes, drained and chopped &lt;/li&gt;
+&lt;li&gt;3 tablespoons dried currants or raisins, soaked and drained &lt;/li&gt;
+&lt;li&gt;Salt and freshly ground black pepper &lt;/li&gt;
+&lt;li&gt;7 saffron strands or 1/2 teaspoon powdered saffron &lt;/li&gt;
+&lt;li&gt;1 pound dried bucatini &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;In a hot skillet, add olive oil and saute fennel until caramelized&lt;/li&gt;
+&lt;li&gt;Add the onions, currants, tomatoes, pine nuts and saffron&lt;/li&gt;
+&lt;li&gt;Season with salt and pepper&lt;/li&gt;
+&lt;li&gt;Bring the briefly to a boil and then lower to a simmer&lt;/li&gt;
+&lt;li&gt;Add the reserved sardines and cook, stirring occasionally with a wooden spoon, until the sardines have broken into pieces and are thoroughly mixed into the sauce, about 10-15 minutes. &lt;/li&gt;
+&lt;li&gt;If the sauce appears too thick at this point, add a little of the pasta cooking water&lt;/li&gt;
+&lt;li&gt;Bring 6 quarts of water and 2 tablespoons of salt to a rolling boil&lt;/li&gt;
+&lt;li&gt;Add the bucatini and cook until tender but still al dente. &lt;/li&gt;
+&lt;li&gt;Drain the cooked pasta into a large serving bowl, add 3/4 of the sauce and stir to combine. &lt;/li&gt;
+&lt;li&gt;Top with the remaining sauce and the fried sardines. &lt;/li&gt;
+&lt;li&gt;This pasta tastes best if allowed to sit for several minutes, soaking up the flavors of the sauce, before it is served. Keep the pasta covered during this waiting period, then garnish with reserved fennel fronds.&lt;/li&gt;
+&lt;/ol&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Tandoori chicken</title>
+			<link href="http://food.squidnet.com//posts/2012-12-30-tandoori-chicken"/>
+			<updated>2012-12-31T03:21:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-30-tandoori-chicken</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Tandoori chicken | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Tandoori chicken&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;3 lbs chicken breasts&lt;/li&gt;
+&lt;li&gt;1.5 bulbs garlic&lt;/li&gt;
+&lt;li&gt;1.5&amp;quot; (1&amp;quot; round) ginger, peeled&lt;/li&gt;
+&lt;li&gt;1/4 cup vinegar&lt;/li&gt;
+&lt;li&gt;1/4 cup oil&lt;/li&gt;
+&lt;li&gt;1/2 cup plain yogurt or 1/2 c buttermilk&lt;/li&gt;
+&lt;li&gt;1/8 cup lemon juice&lt;/li&gt;
+&lt;li&gt;1/4 cup methi leaves (kasuri)&lt;/li&gt;
+&lt;li&gt;1/2 tsp salt, or to taste&lt;/li&gt;
+&lt;li&gt;1/2 tsp red pepper or to taste&lt;/li&gt;
+&lt;li&gt;1/4 cup Shan tandoori powder (about half the packet)&lt;/li&gt;
+&lt;li&gt;1 tsp Shan Zafrani garam masala&lt;/li&gt;
+&lt;li&gt;1 tsp chunky chat masala (any brand)  optional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Cut chicken into large cubes&lt;/li&gt;
+&lt;li&gt;Blend together garlic, ginger, vinegar, oil, yogurt, lemon juice, methi, salt, chilli, tandoori powder, garam masala&lt;/li&gt;
+&lt;li&gt;Marinate chicken overnight with 1/3 of the mixture&lt;/li&gt;
+&lt;li&gt;Grill on hot coals, or broil (25 min)&lt;/li&gt;
+&lt;li&gt;Baste occasionally with ghee, and sprinkle chat masala when done. &lt;/li&gt;
+&lt;li&gt;Serve with raw sliced onions and lemon wedges&lt;/li&gt;
+&lt;/ol&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>vietnamese bananna cake</title>
+			<link href="http://food.squidnet.com//posts/2012-12-30-vietnamese-bananna-cake"/>
+			<updated>2012-12-31T03:14:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-30-vietnamese-bananna-cake</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;vietnamese bananna cake | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;vietnamese bananna cake&lt;/h1&gt;
+			&lt;p&gt;Like many deserts from Asia, this is somewhat gelatinous. Still it’s excellent.&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4 bananas&lt;/li&gt;
+&lt;li&gt;2/3 cup sugar&lt;/li&gt;
+&lt;li&gt;1 can coconut milk&lt;/li&gt;
+&lt;li&gt;6 oz french baguette (about 5-8”)&lt;/li&gt;
+&lt;li&gt;5.5 tbsp cornstarch&lt;/li&gt;
+&lt;li&gt;2-3 limes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Preheat oven to 400◦ F&lt;/li&gt;
+&lt;li&gt;Slice bananas on a slight diagonal. Place in bowl and sprinkle with sugar till all slices are covered &amp;amp; let sit for 10-15 min&lt;/li&gt;
+&lt;li&gt;Break bread into small pieces, add coconut milk and 2/3 cup (or less to taste) sugar&lt;/li&gt;
+&lt;li&gt;Stir till bread is soft, add cornstarch&lt;/li&gt;
+&lt;li&gt;Cover bottom of cake mold w/ parchment paper&lt;/li&gt;
+&lt;li&gt;Fill mold w/ bread+sugar+ coconut mixture&lt;/li&gt;
+&lt;li&gt;Cover top with bananas – discard excess sugar/banana water&lt;/li&gt;
+&lt;li&gt;Bake for 1 hour&lt;/li&gt;
+&lt;li&gt;Serve chilled – squeeze lime juice onto cake before eating&lt;/li&gt;
+&lt;/ol&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Mom's Meatballs</title>
+			<link href="http://food.squidnet.com//posts/2012-12-30-moms-meatballs"/>
+			<updated>2012-12-31T00:10:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-30-moms-meatballs</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Mom's Meatballs | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Mom's Meatballs&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 pound ground turkey&lt;/li&gt;
+&lt;li&gt;1 pound ground pork&lt;/li&gt;
+&lt;li&gt;2 eggs&lt;/li&gt;
+&lt;li&gt;flavored bread crumbs 1-1.5 cups&lt;/li&gt;
+&lt;li&gt;0.5 tsp dried chilli pepper power or red pepper flakes&lt;/li&gt;
+&lt;li&gt;0.5 ground black pepper&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;tsp Tumeric&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;splash lemon juice&lt;/li&gt;
+&lt;li&gt;small can tomato sauce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Mix all the above&lt;/li&gt;
+&lt;li&gt;Roll into balls &lt;/li&gt;
+&lt;li&gt;bake on lightly greased try at 350 for 45-60 min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://ax5joa.blu.livefilestore.com/y1pa3jKwrAtxmgxrNqWLHMejayayWyuqU3d8Q0kAO3K4T_Ore67QXD6i4kJ0Ps3EQe2waxr04qAU61CB_dwYmQ9uigo5YMzkX59/WP_000250.jpg?psid=1&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Green Beans with Shallots</title>
+			<link href="http://food.squidnet.com//posts/2012-12-30-green-beans-with-shallots"/>
+			<updated>2012-12-30T23:57:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-30-green-beans-with-shallots</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Green Beans with Shallots | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Green Beans with Shallots&lt;/h1&gt;
+			&lt;p&gt;&lt;img src=&quot;https://public.blu.livefilestore.com/y1plpijRhW16cwqOvcdQPFPLs39FTWPk7dnI3fWIXVNyZsdSQ4xihgCDYIqxmRG4v3YB7puRnXnd3h6u0Htkhn3fA/WP_000247.jpg?psid=1&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1.5 lbs green beans&lt;/li&gt;
+&lt;li&gt;2 tsp olive oil   &lt;/li&gt;
+&lt;li&gt;6 medium shallot&lt;/li&gt;
+&lt;li&gt;2 Tbsp fresh parsley&lt;/li&gt;
+&lt;li&gt;2.5 tsp lemon zest   &lt;/li&gt;
+&lt;li&gt;0.5 tsp minced garlic   &lt;/li&gt;
+&lt;li&gt;1/4 tsp salt&lt;/li&gt;
+&lt;li&gt;1/4 tsp black pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prep&lt;ul&gt;
+&lt;li&gt;wash &amp;amp; trim beans&lt;/li&gt;
+&lt;li&gt;thin slice shallots&lt;/li&gt;
+&lt;li&gt;chop parsley&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cook&lt;ul&gt;
+&lt;li&gt;steam or boil beans&lt;/li&gt;
+&lt;li&gt;fry shallots for 5 min&lt;/li&gt;
+&lt;li&gt;add beans, salt, pepper&lt;/li&gt;
+&lt;li&gt;combine parsley, lemon zest and garlic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Sauerkraut</title>
+			<link href="http://food.squidnet.com//posts/2012-12-30-sauerkraut"/>
+			<updated>2012-12-30T23:37:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-30-sauerkraut</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Sauerkraut | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Sauerkraut&lt;/h1&gt;
+			&lt;h2 id=&quot;ingredient&quot;&gt;Ingredient&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;primary&lt;ul&gt;
+&lt;li&gt;3-4 Kg Cabbage&lt;/li&gt;
+&lt;li&gt;5 g salt/Kg cabbage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;salt water  &lt;ul&gt;
+&lt;li&gt;1 L water&lt;/li&gt;
+&lt;li&gt;15 g salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Boil salt &amp;amp; water, let cool&lt;/li&gt;
+&lt;li&gt;Shred cabbage&lt;/li&gt;
+&lt;li&gt;Mix salt and cabbage&lt;/li&gt;
+&lt;li&gt;Pack tightly into crock&lt;/li&gt;
+&lt;li&gt;Place stones&lt;/li&gt;
+&lt;li&gt;Cover w/ salt water if required&lt;/li&gt;
+&lt;li&gt;Cover w/ container and fill channel w/ salt water&lt;/li&gt;
+&lt;li&gt;Wait 3-6 weeks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://ax5joa.blu.livefilestore.com/y1pghugMbPxX--48legMxXogoiRKbM5iJGhPwlKDzWbhtdtaHuGRwxWaMLl3MVq4iMOCrNLZKJDQLyMCP38msVLf6e7y_RgUaeK/WP_000248.jpg?psid=1&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Goi Ga</title>
+			<link href="http://food.squidnet.com//posts/2012-12-30-goi-ga"/>
+			<updated>2012-12-30T23:30:00.000Z</updated>
+			<id>http://food.squidnet.com//posts/2012-12-30-goi-ga</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Goi Ga | Scott Weinstein's favorite recipes&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Collection of tested recipes&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;food recipes&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Scott Weinstein&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.10&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/zurb-foundation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlightjs-github.css&quot; /&gt;
+
+&lt;/head&gt;
+&lt;body &gt;
+	&lt;div id='layout'&gt;
+	    &lt;nav class=&quot;container top-bar&quot; style=&quot;&quot;&gt;
+	        &lt;ul class=&quot; title-area&quot;&gt;
+	          &lt;li class=&quot;name&quot;&gt;
+	            &lt;h1&gt;&lt;a href=&quot;/&quot;&gt; Scott Weinstein's favorite recipes&lt;/a&gt;&lt;/h1&gt;
+	          &lt;/li&gt;
+	          &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	        &lt;/ul&gt;
+	        &lt;section class=&quot;top-bar-section&quot;&gt;
+	          &lt;ul class=&quot;right&quot;&gt;
+	          	
+	          &lt;/ul&gt;
+	        &lt;/section&gt;
+	    &lt;/nav&gt;
+		&lt;div role=&quot;main&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;Goi Ga&lt;/h1&gt;
+			&lt;h1 id=&quot;vietnamese-chicken-salad&quot;&gt;Vietnamese chicken salad&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.nicegraphics.com/chow/hoanh_long/goi_ga.jpg&quot; alt=&quot;Goi Ga&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+&lt;p&gt;I often double or triple the ingredients. The full recipe can take well over an hour to prepare, though if you skip the optional parts, as little as 30-45 min&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;½ Chicken breast on the bone with skin&lt;/li&gt;
+&lt;li&gt;½ Green Cabbage&lt;/li&gt;
+&lt;li&gt;½ White onion&lt;/li&gt;
+&lt;li&gt;2 Limes&lt;/li&gt;
+&lt;li&gt;½ Cup Vinegar&lt;/li&gt;
+&lt;li&gt;4 Small red chillis peppers &lt;/li&gt;
+&lt;li&gt;Fish Sauce (Nam Pla) (Tiparos is a good brand) &lt;/li&gt;
+&lt;li&gt;Freshly ground black pepper&lt;/li&gt;
+&lt;li&gt;Fresh mint&lt;/li&gt;
+&lt;li&gt;Sugar&lt;/li&gt;
+&lt;li&gt;Salt&lt;/li&gt;
+&lt;li&gt;Cilantro&lt;/li&gt;
+&lt;li&gt;Vegetable oil&lt;/li&gt;
+&lt;li&gt;10 – 15 Garlic cloves&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optional&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;3 Shallots&lt;/li&gt;
+&lt;li&gt;Unsalted toasted shelled peanuts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make dressing for cabbage&lt;/li&gt;
+&lt;li&gt;Fast pickle the cabbage&lt;/li&gt;
+&lt;li&gt;Shred chicken&lt;/li&gt;
+&lt;li&gt;Create garlic oil&lt;/li&gt;
+&lt;li&gt;Prep final dressings&lt;/li&gt;
+&lt;li&gt;Mix and server&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;dressing-for-cabbage&quot;&gt;Dressing for cabbage&lt;/h3&gt;
+&lt;p&gt;Mix ½ cup vinegar + ¼ tsp sugar + ½ tsp salt&lt;/p&gt;
+&lt;h3 id=&quot;fast-pickle-the-cabbage&quot;&gt;Fast pickle the cabbage&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Shred cabbage and onion (thinly)&lt;/li&gt;
+&lt;li&gt;Soak in &lt;em&gt;dressing for cabbage&lt;/em&gt; for at least 10 min, though 30 - 60 while other steps are in progress is fine&lt;/li&gt;
+&lt;li&gt;Squeeze hard, by hand, the cabbage and onion mix to remove excess water&lt;ul&gt;
+&lt;li&gt;This is absolutely required, a salad spinner just does not do the trick here. Wrapping the cabbage in strong cheese cloth can help&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;chicken-dressing&quot;&gt;Chicken dressing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;½ tsp black pepper&lt;/li&gt;
+&lt;li&gt;1 tsp fish sauce&lt;/li&gt;
+&lt;li&gt;1/3 cup chopped mint&lt;/li&gt;
+&lt;li&gt;juice from ½ lime&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;chicken&quot;&gt;Chicken&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Broil, grill, bake, boil, or roast chicken&lt;/li&gt;
+&lt;li&gt;Let cool&lt;/li&gt;
+&lt;li&gt;Shred and mix with &lt;em&gt;Chicken dressing&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;If you want to boil:&lt;ol&gt;
+&lt;li&gt;Med flame, boil chicken for 15 min&lt;/li&gt;
+&lt;li&gt;Let soak for 15 min&lt;/li&gt;
+&lt;li&gt;Transfer to ice water and let cool&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;final-dressing&quot;&gt;Final Dressing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2 Tbsp fish sauce&lt;/li&gt;
+&lt;li&gt;1 – 2 Tbsp sugar &lt;/li&gt;
+&lt;li&gt;Juice from 1 lime&lt;/li&gt;
+&lt;li&gt;1 – 4 thai red bird chilis finely sliced with seeds&lt;/li&gt;
+&lt;li&gt;¼ cup chopped cilantro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;crisped-garlic-garlic-oil&quot;&gt;Crisped garlic &amp;amp; garlic oil&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mince 5-10 cloves&lt;/li&gt;
+&lt;li&gt;Heat 1 – 2 cups of oil over low flame &lt;/li&gt;
+&lt;li&gt;When garlic is medium brown (about 10-20 min) strain oil (but &lt;strong&gt;save it&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Dry garlic on paper towels&lt;/li&gt;
+&lt;li&gt;Let garlic oil cool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;crisped-shallots-optional-&quot;&gt;Crisped shallots (optional)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mince 3 shallots&lt;/li&gt;
+&lt;li&gt;Heat oil over very low flame &lt;/li&gt;
+&lt;li&gt;When shallots are medium brown (about 10-20 min) strain oil. Careful – easy to burn.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dry shallots on paper towels&lt;/p&gt;
+&lt;p&gt;  3) 1/8 cup of  (optional)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;how-to-serve&quot;&gt;How to serve&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Toss chicken, cabbage, and &lt;em&gt;final dressing&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Strain excess liquid&lt;/li&gt;
+&lt;li&gt;Mix in some garlic oil&lt;/li&gt;
+&lt;li&gt;top with crisped garlic (optional)&lt;/li&gt;
+&lt;li&gt;Top with crisped shallots (optional)&lt;/li&gt;
+&lt;li&gt;Top with dry toasted crushed peanuts (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;ref-images&quot;&gt;Ref images&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Phrik_khi_nu.jpg/287px-Phrik_khi_nu.jpg&quot; alt=&quot;chillis&quot;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/51THcYlP13L._SL500_AA300_.jpg&quot; alt=&quot;Nam Pla&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div id=&quot;disqus_thread&quot; class=&quot;small-12 large-6 columns&quot;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scottsrecipes'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	    &lt;div id='layout_footer'&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;footer id='footer' class=&quot;panel&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;columns large-5 small-12&quot;&gt;
+			&amp;copy; Scott Weinstein 2013
+			&lt;/div&gt;
+			&lt;div class=&quot;columns large-7 small-12 &quot;&gt;
+				&lt;ul class=&quot;inline-list foot-right&quot;&gt;
+		        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>
